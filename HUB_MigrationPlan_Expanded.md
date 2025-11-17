@@ -1,5 +1,5 @@
 # HUB International — AWS Migration & Modernization Plan
-### Least Path of Resistance Strategy (RKGore Format)
+### Least Path of Resistance Strategy (Direct Advisors)
 Prepared for: scott.simpson1@hubinternational.com  
 Prepared by: Douglas (Lead Architect) & Pavan (Cloud Engineer)
 
